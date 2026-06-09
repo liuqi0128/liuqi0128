@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**liuqi0128/liuqi0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**关于我 ✌️**
 
-Here are some ideas to get you started:
+我是一名前端开发工程师。
+- 📫 联系方式: lq1229336303@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Languages and Library**  
+
+<p>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-NestJS-e0234e?logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flutter-02569b?logo=flutter&logoColor=white" />
+</p>
