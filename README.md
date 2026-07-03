@@ -3,7 +3,7 @@
 **关于我 ✌️**
 
 我是一名前端开发工程师。
-- 📫 联系方式: lq1229336303@gmail.com
+- 📫 联系方式: 1229336303@qq.com
 
 
 **Languages and Library**  
