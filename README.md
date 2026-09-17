@@ -8,8 +8,9 @@
 - 🌐 前端：熟悉 Vue / React 网页开发
 - 🔗 服务端：掌握 Node.js 中间层及后端开发，了解 Go 语言开发
 - 💻 桌面端：掌握 Electron 客户端开发
-- 📱 移动端：简单了解 Flutter App 开发
+- 📱 移动端：了解 Flutter、React Native跨平台 App 开发基础
 - 📫 联系方式: 1229336303@qq.com
+- ✉️ 博客：yinian-blog.vercel.app
 
 
 **Languages and Library**  
