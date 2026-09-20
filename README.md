@@ -10,7 +10,7 @@
 - 💻 桌面端：掌握 Electron 客户端开发
 - 📱 移动端：了解 Flutter、React Native跨平台 App 开发基础
 - 📫 联系方式: 1229336303@qq.com
-- ✉️ 博客：yinian-blog.vercel.app
+- ✉️ 博客：[一念 Blog](https://liuq.work/blog/)
 
 
 **Languages and Library**  
